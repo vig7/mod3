@@ -1,0 +1,37 @@
+*{
+	box-sizing: border-box;
+
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #CCFFCC;
+}
+h1{
+	float: left;
+	margin-top: 0;
+	margin-bottom: 0;
+	.line-height: 0.75;
+}
+h2{
+	margin-bottom: 30px;
+}
+
+#header-nav{
+	border-radius: 0;
+    border: 0;
+    background-color: #336B87;
+}
+#nav-head{
+	padding: 0;
+	float:left;
+}
+
+#para{
+	background-color: #90AFC5;
+	margin-bottom: 30px;
+		}
+
+header{
+	font-size:2em;
+
+}
